@@ -4,6 +4,12 @@
 
 Please see [Releases](https://github.com/ethereum/go-ethereum/releases). We recommend using the [most recently released version](https://github.com/ethereum/go-ethereum/releases/latest).
 
+## Security Updates
+
+| Date | Change |
+| ---- | ------ |
+| 2026-02-02 | Bumped `github.com/consensys/gnark-crypto` to v0.18.1 (GHSA-fj2x-735w-74vq). |
+
 ## Audit reports
 
 Audit reports are published in the `docs` folder: https://github.com/ethereum/go-ethereum/tree/master/docs/audits 
